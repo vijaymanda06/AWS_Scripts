@@ -1,0 +1,14 @@
+# AWS SDK for Python - used for connecting to AWS and listing EC2 instances
+boto3>=1.26.0
+
+# Data manipulation and Excel file creation - used for processing instance data and creating reports
+pandas>=1.5.0
+
+# Excel file support - used for reading/writing Excel files and adding summary sheets
+openpyxl>=3.0.0
+
+# Advanced Excel formatting - used for creating professional-looking reports with colors and styling
+XlsxWriter>=3.0.0
+
+# HTTP requests - used for Slack API calls and file uploads
+requests>=2.28.0
